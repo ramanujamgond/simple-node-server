@@ -7,7 +7,6 @@ app.listen(port, () => {
     console.log(`App listening on port ${port}`)
 });
 
-
 // send a static page back to the client
 
 // add assests to the website 
