@@ -18,7 +18,6 @@ const absolutePathContact = __dirname + "/views/contact/contact.html";
 // absolute path for home page
 const absolutePathIndex = __dirname + "/views/home/index.html";
 
-
 app.get('/', (req, res) => {
     res.sendFile(absolutePathIndex);
 });
