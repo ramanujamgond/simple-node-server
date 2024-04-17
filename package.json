@@ -1,0 +1,14 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "creating a simple node server to serve a simple static webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramanujam Gond",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
